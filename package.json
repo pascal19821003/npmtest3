@@ -1,0 +1,16 @@
+{
+  "name": "test3bypascal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pascal19821003/npmtest3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
